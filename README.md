@@ -1,2 +1,4 @@
 # TextUtils
-{"React.js\TextUtils": ""}
+{
+  "React.js\TextUtils": ""
+ }
